@@ -132,17 +132,10 @@ This technique is known as **hysteresis**.
 7. When ambient brightness rises sufficiently, Arduino deactivates the relay.
 8. The status LED turns OFF.
 9. The system continuously repeats the process.
-
 ---
 
-## 🖼️ Circuit Diagram
-
-Add the circuit diagram to:
-
-`images/LDR_Relay_Automatic_Light_Circuit_Diagram.png`
 
 ---
-
 ## 💻 Arduino Code
 
 The complete program is available in:
